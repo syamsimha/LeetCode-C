@@ -9,6 +9,7 @@ C solutions to LeetCode Algorithm and Data Structure problems
 | [0001-two-sum](https://github.com/syamsimha/LeetCode-C/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/syamsimha/LeetCode-C/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/syamsimha/LeetCode-C/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ C solutions to LeetCode Algorithm and Data Structure problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/syamsimha/LeetCode-C/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/syamsimha/LeetCode-C/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
