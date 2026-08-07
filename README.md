@@ -14,10 +14,12 @@ C solutions to LeetCode Algorithm and Data Structure problems
 | [0088-merge-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syamsimha/LeetCode-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/syamsimha/LeetCode-C/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syamsimha/LeetCode-C/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ C solutions to LeetCode Algorithm and Data Structure problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +47,16 @@ C solutions to LeetCode Algorithm and Data Structure problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/syamsimha/LeetCode-C/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
