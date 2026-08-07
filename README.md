@@ -12,6 +12,7 @@ C solutions to LeetCode Algorithm and Data Structure problems
 | [0035-search-insert-position](https://github.com/syamsimha/LeetCode-C/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/syamsimha/LeetCode-C/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/syamsimha/LeetCode-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ C solutions to LeetCode Algorithm and Data Structure problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/syamsimha/LeetCode-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
