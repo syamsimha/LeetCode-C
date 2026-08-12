@@ -16,12 +16,14 @@ C solutions to LeetCode Algorithm and Data Structure problems
 | [0136-single-number](https://github.com/syamsimha/LeetCode-C/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/syamsimha/LeetCode-C/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syamsimha/LeetCode-C/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/syamsimha/LeetCode-C/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,16 +34,19 @@ C solutions to LeetCode Algorithm and Data Structure problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/syamsimha/LeetCode-C/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/syamsimha/LeetCode-C/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/syamsimha/LeetCode-C/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/syamsimha/LeetCode-C/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/syamsimha/LeetCode-C/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +55,7 @@ C solutions to LeetCode Algorithm and Data Structure problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/syamsimha/LeetCode-C/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/syamsimha/LeetCode-C/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
